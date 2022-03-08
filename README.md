@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! My name is Harshal Zade</h1>
-<h3 align="center">I'm 21, A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foreverxhb&label=Profile%20views&color=0e75b6&style=flat" alt="foreverxhb" /> </p>
 
