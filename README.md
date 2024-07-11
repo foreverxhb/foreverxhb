@@ -13,6 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" />
   </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foreverxhb&show_icons=true&locale=en" alt="foreverxhb" /></p>-startup
