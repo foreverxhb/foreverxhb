@@ -11,4 +11,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foreverxhb&show_icons=true&locale=en" alt="foreverxhb" /></p>-startup
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foreverxhb&show_icons=true&locale=en" alt="foreverxhb" /></p>
